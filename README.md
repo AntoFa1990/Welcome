@@ -1,12 +1,10 @@
-# UCB-VIRT-DATA-PT-11-2022-U-LOLC
+# A BRIEF INTRODUCTION
 
 
 
-## Getting started
+## Who is Antonette Goroch?
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
-
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+Antonette Goroch is mother, artist and long-time Bay Area resident. Her professional experience includes work in both the private and non-profit sectors, including community radio (WORT Madison, WI and KAZU Pacific Grove), music (Mission Creek Oakland Music Festival, Starry Plough Berkeley) and cultural exchange (Portland-Bologna Sister City Association). She is returning to the Berkeley after living in Bologna, Italy. Antonette has a BA in Political Science from Humboldt State University and an MA in Communications from University of Wisconsin, Madison
 
 ## Add your files
 
